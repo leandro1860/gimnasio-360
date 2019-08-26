@@ -1434,7 +1434,10 @@ body.mobile-nav-active #mobile-nav-toggle {
     text-align: right;
     font-size: 17px;
   }
-}
+
+  #intro h1 {
+    font-size: 30px;
+  }
 
 @media screen and (min-width: 768px) and (max-width: 991px){
 
@@ -1460,4 +1463,6 @@ body.mobile-nav-active #mobile-nav-toggle {
   .col-md-4 p {
     font-size: 13px;
   }
+}
+}
 }
